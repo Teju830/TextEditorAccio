@@ -10,6 +10,7 @@ Its Display some Text Area to write some information and Two fuctionalies like F
 **TextEditor with File And Edit Fuctinalities**
 ![TextEditor_Screen1](https://github.com/Teju830/TextEditorAccio/assets/71114214/a1279060-afbc-43bb-9205-f404713a4566)
 
+
 **File Options**
 ![TextEditor_Screen2](https://github.com/Teju830/TextEditorAccio/assets/71114214/3d37f28a-51e4-4cd0-836a-e2ed0e5109f0)
 
